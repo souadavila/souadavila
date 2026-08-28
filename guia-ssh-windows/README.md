@@ -4,12 +4,12 @@ Se você usa Windows e quer mais praticidade — sem perder o controle e a segur
 ---
 ## 🛠️ Passo 0: **Baixando o Git Bash**
 O Windows não vem com o terminal Bash por padrão. Então caso você não tenha esse terminal precisará baixar e instalar o **Git for Windows**- que já inclui o **Git Bash**.  *Siga meus bons* neste passo-a-passo bem basicão:
-**1**. Vamos ao site oficial do [Git for Windows](https://git-scm.com/download/win) e bora fazer o download do instalador.
-**2**. Execute o arquivo baixado e avance nas telas - *pode manter todas as opções padrão marcadas durante a instalação*.
-**3**. Finalizou?! Agora é só abrir o menu Iniciar do Windows, pesquisar por **Git Bash** e clicar para abrir o terminal.
+*1. Vamos ao site oficial do [Git for Windows](https://git-scm.com/download/win) e bora fazer o download do instalador.
+*2. Execute o arquivo baixado e avance nas telas - *pode manter todas as opções padrão marcadas durante a instalação*.
+*3. Finalizou?! Agora é só abrir o menu Iniciar do Windows, pesquisar por **Git Bash** e clicar para abrir o terminal.
 ---
 *Que comecem os jogos!*
-## **Assimilando o Conceito com Zero chances de Complicação** 😎
+## **Assimilando o Conceito com Zero chances de Compilação** 😎
 Vamos pensar  que o SSH é um **cadeado com duas chaves**:
 1. **Chave Pública (`.pub`):** É o seu *cadeado*. Você pode entregar para o GitHub sem medo.
 2. **Chave Privada:** É a sua *chave física*. Ela fica guardada de forma secreta no seu computador.
